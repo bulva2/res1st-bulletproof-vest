@@ -1,3 +1,7 @@
 # res1st-bulletproof-vest
 
-Very simple standalone bulletproof vest item with animation for FiveM.
+Bulletproof vest item for FiveM.
+[Standalone script]
+- Animation
+- Progress bar
+- 0 memory usage it´s simply an item.
