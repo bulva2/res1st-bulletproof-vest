@@ -1,3 +1,3 @@
 # res1st-bulletproof-vest
 
-Very simple standalone bulletproof vest item with animation.
+Very simple standalone bulletproof vest item with animation for FiveM.
